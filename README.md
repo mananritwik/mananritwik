@@ -2,7 +2,7 @@
 
 **Product leader who builds. I run the org and ship the AI myself.**
 
-Head of Product at ScanPay (fintech, 0 to 1, employee #3): I built and lead product, design, analytics, and support, and I personally built the AI systems that run them, with Claude Code and Cursor. I'm a product leader who never stopped building. This profile is where I keep the builder side on display: the build-vs-buy calls, how I eval, and where an LLM is dangerous and how I box it in.
+Most recently Head of Product at ScanPay (fintech, 0 to 1, employee #3, through August 2026): I built and led product, design, analytics, and support, and I personally built the AI systems that run them, with Claude Code and Cursor. I'm a product leader who never stopped building. This profile is where I keep the builder side on display: the build-vs-buy calls, how I eval, and where an LLM is dangerous and how I box it in.
 
 ### Selected work
 | What | The call, and the outcome | Role |
@@ -18,7 +18,7 @@ Head of Product at ScanPay (fintech, 0 to 1, employee #3): I built and lead prod
 - The next layer of the [UX Proofsheet](https://github.com/mananritwik/ux-proofsheet): a quantified design-token comparison
 
 ### How I think
-- 📓 AI-craft notes  ·  🔍 System-design write-ups  ·  📐 Eval rubrics
+- 📓 [AI-craft notes](https://github.com/mananritwik/ai-craft-notes)  ·  📐 [How I eval an AI stack](https://github.com/mananritwik/support-ai-stack#how-i-know-it-works)  ·  🔍 [Designing for trust](https://github.com/mananritwik/ai-craft-notes/blob/main/designing-for-trust.md)
 
 ### Reach me
 [LinkedIn](https://www.linkedin.com/in/ritwikmanan)  ·  ritwik.manan@gmail.com
